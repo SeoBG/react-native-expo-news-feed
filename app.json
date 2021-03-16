@@ -1,0 +1,12 @@
+{
+  "name": "news-app",
+  "displayName": "news-app",
+  "expo": {
+    "name": "news-app",
+    "slug": "news-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
